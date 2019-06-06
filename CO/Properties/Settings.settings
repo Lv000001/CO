@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CO.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IsStartWithWindowStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="IsMinimized" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RectHotKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Alt+1</Value>
+    </Setting>
+    <Setting Name="FullHotKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Alt+2</Value>
+    </Setting>
+    <Setting Name="OrcHotKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Alt+3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
